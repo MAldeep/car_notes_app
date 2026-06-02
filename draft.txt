@@ -1,0 +1,6 @@
+1 => What is the program preview ? 
+2 => what are the customer needs met in the program ?
+3 => what is the exact value the program give to the customer ?
+4 => what are the actions available for the customer ?
+5 => what is the exact end product given for the customer ?
+6 => what is the point of sale in the program ?
