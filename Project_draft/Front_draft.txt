@@ -1,0 +1,34 @@
+=> Required Routes:
+  - Landing Page
+    => Required Componets :
+      - Header
+      - Footer
+      - Hero Section
+      - Testmonials
+      - Partnerships (if present)
+  - Home Page
+    => Required Components :
+      - Header
+      - Footer
+      - Box to add notes in 
+      - Add button
+      - Note Component
+      - Reset button
+      - List for suggested services
+      - Modal for visit addition
+  - Login/Register Page
+    => Required Components :
+      - Register Form
+      - Login Form
+  - Analytics Page 
+    => Required Components :
+      - Graph for money spent over the last 6 months
+      - Graph for money kept over the last 6 months
+      - Box for user available budget 
+      - Box for the required money over the next 6 months
+  - Settings Page
+    => Required Components :
+      - Preferences switcher (fuel, dynamic milage prediction)
+      - Export to Excel file
+
+=> Required Global states :
