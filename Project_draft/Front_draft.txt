@@ -1,7 +1,7 @@
 => Required Routes:
   - Landing Page
     => Required Componets :
-      - Header
+      - Header (Done)
       - Footer
       - Hero Section
       - Testmonials
