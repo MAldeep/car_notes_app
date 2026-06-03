@@ -1,0 +1,12 @@
+1- what are the main portions of the MVP ?
+  - Home page contains a blank box to add notes
+  - Analytics Page contains : 
+    - Graph for money spent over the last 6 months
+    - Graph for money kept due to usage of car notes app.
+    - boxes for : 
+      - money required for the next 6 months.
+      - budget detemined by the user
+2- What is the tech stack of this MVP?
+  - For frontend => Nextjs
+  - For backend APIs => Nodejs
+  - For Database => MongoDB
